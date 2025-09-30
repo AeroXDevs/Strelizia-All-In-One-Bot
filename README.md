@@ -70,20 +70,6 @@ Make sure your bot has these permissions:
 - Connect & Speak (for music)
 - Add Reactions (for games)
 
-## 📸 Adding Images
-
-To add your bot banner and server avatar:
-
-1. **Create an `assets` folder** in your repository
-2. **Add your images** to the folder (bot-banner.png, server-avatar.png)
-3. **Update the README** by replacing the commented lines:
-   ```markdown
-   ![Bot Banner](assets/bot-banner.png)
-   ![Server Avatar](assets/server-avatar.png)
-   ```
-
-**Quick tip:** You can also drag & drop images directly when editing on GitHub!
-
 ## ⚙️ Configuration Guide
 
 ### 🔑 Owner ID (No Prefix Commands)
