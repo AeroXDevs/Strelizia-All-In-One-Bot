@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": "2025-05-31T15:49:26.080900",
+    "category": "reaction_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": 1370623292142256192,
+    "author_id": 1198187445859139595,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1198187445859139595 \u2022 Message ID: 1378399378460639323"
+      },
+      "author": {
+        "name": "Hiro \u262a",
+        "icon_url": "https://cdn.discordapp.com/avatars/1198187445859139595/576a2d2b3df78b8861a1d2d1e6260d95.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1198187445859139595>"
+        },
+        {
+          "inline": true,
+          "name": "Reaction",
+          "value": "<a:verified:1288399552805863465>"
+        },
+        {
+          "inline": true,
+          "name": "Message",
+          "value": "[Jump to message](https://discord.com/channels/1370623292142256188/1370623292142256192/1378399378460639323)"
+        },
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "<#1370623292142256192>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-05-31T15:49:25.898038+00:00",
+      "type": "rich",
+      "title": "Reaction Added"
+    },
+    "message_id": 1378399985535553687
+  }
+]

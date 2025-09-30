@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2025-05-31T03:43:28.907226",
+    "category": "join_leave_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": 1356164113801154671,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1356164113801154671"
+      },
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/avatars/1356164113801154671/15144a917290fc6a25880e2c3bdb2ee8.png?size=1024"
+      },
+      "author": {
+        "name": "Eren Yeager",
+        "icon_url": "https://cdn.discordapp.com/avatars/1356164113801154671/15144a917290fc6a25880e2c3bdb2ee8.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1356164113801154671>"
+        },
+        {
+          "inline": true,
+          "name": "Account Created",
+          "value": "<t:1743405121:R>"
+        },
+        {
+          "inline": true,
+          "name": "Member Count",
+          "value": "29"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-05-31T03:43:28.619267+00:00",
+      "type": "rich",
+      "title": "Member Joined"
+    },
+    "message_id": 1378217293246500995
+  }
+]

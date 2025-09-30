@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-07-13T10:03:36.626818",
+    "category": "message_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": 1374411402722152508,
+    "author_id": 1124248109472550993,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1124248109472550993 \u2022 Message ID: 1393895631440842773"
+      },
+      "author": {
+        "name": "\ud835\udc00 \ud835\udc1e \ud835\udc20 \ud835\udc22 \ud835\udc2c",
+        "icon_url": "https://cdn.discordapp.com/avatars/1124248109472550993/9a18869b1930363d429fce78062c8226.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": false,
+          "name": "Content",
+          "value": "```Purge 100```"
+        },
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "<#1374411402722152508>"
+        },
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1124248109472550993>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-07-13T10:03:36.475871+00:00",
+      "type": "rich",
+      "title": "Message Deleted"
+    },
+    "message_id": 1393895634355880037
+  }
+]

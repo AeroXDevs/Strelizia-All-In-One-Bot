@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-06-01T10:27:40.786317",
+    "category": "voice_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": 946749028312416327,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 946749028312416327"
+      },
+      "author": {
+        "name": "Eruptor",
+        "icon_url": "https://cdn.discordapp.com/avatars/946749028312416327/a_638bed7c5ee94e9e44c65cd71e4d1117.gif?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@946749028312416327>"
+        },
+        {
+          "inline": true,
+          "name": "Action",
+          "value": "Left voice"
+        },
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "<#1370797549568659588>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-06-01T10:27:39.899352+00:00",
+      "type": "rich",
+      "title": "Voice State Changed"
+    },
+    "message_id": 1378681401234161694
+  }
+]

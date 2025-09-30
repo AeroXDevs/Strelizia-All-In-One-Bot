@@ -1,0 +1,35 @@
+{
+  "1372373817825169469": [
+    {
+      "user_id": 1124248109472550993,
+      "answers": {
+        "Baksk": "No",
+        "skkskwoso": "Mo",
+        "what'd ur slapodpd": "Mo",
+        "allwpsls": "Mo",
+        "jeiei": "No"
+      },
+      "status": "approved",
+      "applied_at": "2025-06-09T05:38:11.439447",
+      "reviewed_at": "2025-06-09T05:38:59.225867",
+      "reviewed_by": 1124248109472550993
+    }
+  ],
+  "1333711896146214923": [
+    {
+      "user_id": 427545494223323136,
+      "answers": {
+        "Name: [Your Name/Username]": "niks",
+        "Age: [Your Age]": "24",
+        "Gender: [Your Gender]": "m",
+        "Country: [Your Country]": "india",
+        "Hours active on Discord: [Your Hours]": "5-6 hr",
+        "What will you do after becoming staff? [Your Plans]": "run server"
+      },
+      "status": "pending",
+      "applied_at": "2025-07-13T11:01:07.300214",
+      "reviewed_at": null,
+      "reviewed_by": null
+    }
+  ]
+}

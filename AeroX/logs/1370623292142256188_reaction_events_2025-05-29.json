@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": "2025-05-29T04:54:24.054432",
+    "category": "reaction_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": 1374371891678023835,
+    "author_id": 886324307385520128,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 886324307385520128 \u2022 Message ID: 1377510338018148413"
+      },
+      "author": {
+        "name": "nahmo",
+        "icon_url": "https://cdn.discordapp.com/avatars/886324307385520128/a_9e57f0d7636216fa80e2a1d465c2378f.gif?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@886324307385520128>"
+        },
+        {
+          "inline": true,
+          "name": "Reaction",
+          "value": "\ud83d\udc80"
+        },
+        {
+          "inline": true,
+          "name": "Message",
+          "value": "[Jump to message](https://discord.com/channels/1370623292142256188/1374371891678023835/1377510338018148413)"
+        },
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "<#1374371891678023835>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-05-29T04:54:23.891568+00:00",
+      "type": "rich",
+      "title": "Reaction Added"
+    },
+    "message_id": 1377510365302362203
+  }
+]

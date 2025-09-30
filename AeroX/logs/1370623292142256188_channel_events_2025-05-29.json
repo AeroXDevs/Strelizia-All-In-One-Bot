@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2025-05-29T11:05:58.413091",
+    "category": "channel_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": 1376278160429158520,
+    "author_id": null,
+    "embed_data": {
+      "footer": {
+        "text": "Channel ID: 1376278160429158520"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "<#1376278160429158520>"
+        },
+        {
+          "inline": false,
+          "name": "Changes",
+          "value": "Topic: None \u2192 None"
+        },
+        {
+          "inline": true,
+          "name": "Updated by",
+          "value": "<@1124248109472550993>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-05-29T11:05:57.925653+00:00",
+      "type": "rich",
+      "title": "Channel Updated"
+    },
+    "message_id": 1377603874315043021
+  }
+]

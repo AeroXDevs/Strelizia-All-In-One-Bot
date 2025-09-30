@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2025-06-04T09:10:48.774767",
+    "category": "channel_events",
+    "guild_id": 1373230288255189062,
+    "channel_id": 1379748828567179357,
+    "author_id": null,
+    "embed_data": {
+      "footer": {
+        "text": "Channel ID: 1379748828567179357"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "#strelizia-roles"
+        },
+        {
+          "inline": true,
+          "name": "Type",
+          "value": "Text"
+        },
+        {
+          "inline": true,
+          "name": "Category",
+          "value": "\u22a2 S E R V E R\u30fbL O G S \u2510"
+        },
+        {
+          "inline": true,
+          "name": "Deleted by",
+          "value": "<@1182644017217941585>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-06-04T09:10:48.409951+00:00",
+      "type": "rich",
+      "title": "Channel Deleted"
+    },
+    "message_id": 1379749220159983700
+  }
+]

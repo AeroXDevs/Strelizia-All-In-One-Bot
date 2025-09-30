@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2025-05-29T02:59:40.584512",
+    "category": "join_leave_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": 1377231085049610402,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1377231085049610402"
+      },
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/avatars/1377231085049610402/9090f09a0c21f72326623509b91e7098.png?size=1024"
+      },
+      "author": {
+        "name": "nekoGPT",
+        "icon_url": "https://cdn.discordapp.com/avatars/1377231085049610402/9090f09a0c21f72326623509b91e7098.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1377231085049610402>"
+        },
+        {
+          "inline": true,
+          "name": "Account Created",
+          "value": "<t:1748427878:R>"
+        },
+        {
+          "inline": true,
+          "name": "Member Count",
+          "value": "18"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-05-29T02:59:40.448254+00:00",
+      "type": "rich",
+      "title": "Member Joined"
+    },
+    "message_id": 1377481493710110833
+  }
+]

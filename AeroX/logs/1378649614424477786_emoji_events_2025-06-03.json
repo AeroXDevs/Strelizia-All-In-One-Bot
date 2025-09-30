@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2025-06-03T16:26:05.319670",
+    "category": "emoji_events",
+    "guild_id": 1378649614424477786,
+    "channel_id": null,
+    "author_id": null,
+    "embed_data": {
+      "footer": {
+        "text": "Emoji ID: 1379496371790286978"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "Emoji",
+          "value": "<:skull_premium:1379496371790286978> :skull_premium:"
+        },
+        {
+          "inline": true,
+          "name": "ID",
+          "value": "1379496371790286978"
+        },
+        {
+          "inline": true,
+          "name": "Animated",
+          "value": "No"
+        },
+        {
+          "inline": true,
+          "name": "Created by",
+          "value": "<@1175881305469235321>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-06-03T16:26:04.947891+00:00",
+      "type": "rich",
+      "title": "Emoji Added"
+    },
+    "message_id": 1379496373149241498
+  }
+]

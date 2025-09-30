@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-29T03:20:21.687515",
+    "category": "voice_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": 1198187445859139595,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1198187445859139595"
+      },
+      "author": {
+        "name": "Hiro \u262a",
+        "icon_url": "https://cdn.discordapp.com/avatars/1198187445859139595/576a2d2b3df78b8861a1d2d1e6260d95.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1198187445859139595>"
+        },
+        {
+          "inline": true,
+          "name": "Action",
+          "value": "Joined voice"
+        },
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "<#1370797549568659588>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-05-29T03:20:21.531480+00:00",
+      "type": "rich",
+      "title": "Voice State Changed"
+    },
+    "message_id": 1377486699520720946
+  }
+]

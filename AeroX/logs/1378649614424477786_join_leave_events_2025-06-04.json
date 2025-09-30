@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2025-06-04T07:33:27.513416",
+    "category": "join_leave_events",
+    "guild_id": 1378649614424477786,
+    "channel_id": null,
+    "author_id": 1152073459443191859,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1152073459443191859"
+      },
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/avatars/1152073459443191859/f3eb2ae21ad333800ce3504018f358ee.png?size=1024"
+      },
+      "author": {
+        "name": "!                    Z\u1d07\u0274\u1d18\u1d00\u026a",
+        "icon_url": "https://cdn.discordapp.com/avatars/1152073459443191859/f3eb2ae21ad333800ce3504018f358ee.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1152073459443191859>"
+        },
+        {
+          "inline": true,
+          "name": "Account Created",
+          "value": "<t:1694746117:R>"
+        },
+        {
+          "inline": true,
+          "name": "Member Count",
+          "value": "57"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-06-04T07:33:26.972364+00:00",
+      "type": "rich",
+      "title": "Member Joined"
+    },
+    "message_id": 1379724719422701579
+  }
+]

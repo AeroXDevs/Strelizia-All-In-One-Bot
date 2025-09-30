@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2025-05-28T19:06:22.138313",
+    "category": "role_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": null,
+    "embed_data": {
+      "footer": {
+        "text": "Role ID: 1376273687681958021"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "Role",
+          "value": "<@&1376273687681958021>"
+        },
+        {
+          "inline": false,
+          "name": "Changes",
+          "value": "Name: `Meow` \u2192 `Rawr`"
+        },
+        {
+          "inline": true,
+          "name": "Updated by",
+          "value": "<@1124248109472550993>"
+        }
+      ],
+      "flags": 0,
+      "color": 3092790,
+      "timestamp": "2025-05-28T19:06:21.772335+00:00",
+      "type": "rich",
+      "title": "\ud83d\udcdd Role Updated"
+    },
+    "message_id": 1377362381923025157
+  }
+]

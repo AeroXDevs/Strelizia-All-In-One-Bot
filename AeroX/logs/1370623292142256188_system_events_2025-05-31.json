@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2025-05-31T08:14:30.317006",
+    "category": "system_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": null,
+    "embed_data": {
+      "footer": {
+        "text": "Guild ID: 1370623292142256188"
+      },
+      "fields": [
+        {
+          "inline": false,
+          "name": "Changes",
+          "value": "Description updated"
+        },
+        {
+          "inline": true,
+          "name": "Updated by",
+          "value": "<@1198187445859139595>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-05-31T08:14:29.923200+00:00",
+      "type": "rich",
+      "title": "Server Updated"
+    },
+    "message_id": 1378285498551898172
+  }
+]

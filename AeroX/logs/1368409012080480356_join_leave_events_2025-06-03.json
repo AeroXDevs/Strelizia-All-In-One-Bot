@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2025-06-03T09:11:41.291282",
+    "category": "join_leave_events",
+    "guild_id": 1368409012080480356,
+    "channel_id": 1379343066066063390,
+    "author_id": 1285093684836307028,
+    "embed_data": {
+      "footer": {
+        "text": "Test message \u2022 User ID: 1285093684836307028"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "Category",
+          "value": "join_leave_events"
+        },
+        {
+          "inline": true,
+          "name": "Test User",
+          "value": "<@1285093684836307028>"
+        },
+        {
+          "inline": true,
+          "name": "Timestamp",
+          "value": "<t:1748941901:f>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-06-03T09:11:41.093592+00:00",
+      "type": "rich",
+      "title": "Test Log - Join Leave Events"
+    },
+    "message_id": 1379387052931551242
+  }
+]

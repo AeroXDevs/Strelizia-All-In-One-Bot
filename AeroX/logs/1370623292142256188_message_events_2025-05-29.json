@@ -1,0 +1,51 @@
+[
+  {
+    "timestamp": "2025-05-29T02:52:37.708828",
+    "category": "message_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": 1374371891678023835,
+    "author_id": 1122890382137634936,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1122890382137634936 \u2022 Message ID: 1377479709826220115"
+      },
+      "author": {
+        "name": "YUMI \u2744",
+        "icon_url": "https://cdn.discordapp.com/avatars/1122890382137634936/1accd8ab86e3fbe94298026969c7c957.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": false,
+          "name": "Before",
+          "value": "```Nigga to cool```"
+        },
+        {
+          "inline": false,
+          "name": "After",
+          "value": "```Nigga to cook```"
+        },
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "<#1374371891678023835>"
+        },
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1122890382137634936>"
+        },
+        {
+          "inline": true,
+          "name": "Jump to Message",
+          "value": "[Click here](https://discord.com/channels/1370623292142256188/1374371891678023835/1377479709826220115)"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-05-29T02:52:37.584786+00:00",
+      "type": "rich",
+      "title": "Message Edited"
+    },
+    "message_id": 1377479720358117508
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2025-05-29T02:59:40.579414",
+    "category": "role_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": null,
+    "embed_data": {
+      "footer": {
+        "text": "Role ID: 1377481492720255087"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "Role",
+          "value": "<@&1377481492720255087>"
+        },
+        {
+          "inline": true,
+          "name": "Color",
+          "value": "#000000"
+        },
+        {
+          "inline": true,
+          "name": "Mentionable",
+          "value": "No"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-05-29T02:59:40.291753+00:00",
+      "type": "rich",
+      "title": "Role Created"
+    },
+    "message_id": 1377481493794001028
+  }
+]

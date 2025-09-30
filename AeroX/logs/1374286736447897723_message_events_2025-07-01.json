@@ -1,0 +1,51 @@
+[
+  {
+    "timestamp": "2025-07-01T11:40:44.955171",
+    "category": "message_events",
+    "guild_id": 1374286736447897723,
+    "channel_id": 1374286736984899606,
+    "author_id": 1124248109472550993,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1124248109472550993 \u2022 Message ID: 1389571411567186053"
+      },
+      "author": {
+        "name": "\ud835\udc00 \ud835\udc1e \ud835\udc20 \ud835\udc22 \ud835\udc2c",
+        "icon_url": "https://cdn.discordapp.com/avatars/1124248109472550993/2a1b375994846854ab77b5758bb86627.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": false,
+          "name": "Before",
+          "value": "```Hm```"
+        },
+        {
+          "inline": false,
+          "name": "After",
+          "value": "```Hi```"
+        },
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "<#1374286736984899606>"
+        },
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1124248109472550993>"
+        },
+        {
+          "inline": true,
+          "name": "Jump to Message",
+          "value": "[Click here](https://discord.com/channels/1374286736447897723/1374286736984899606/1389571411567186053)"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-07-01T11:40:44.469073+00:00",
+      "type": "rich",
+      "title": "Message Edited"
+    },
+    "message_id": 1389571424632574015
+  }
+]

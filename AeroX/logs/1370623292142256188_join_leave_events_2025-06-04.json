@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-06-04T07:44:29.123010",
+    "category": "join_leave_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": 1237971089087270983,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1237971089087270983"
+      },
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/avatars/1237971089087270983/c7b91765e9504969d7a5cd1a88e9c2f3.png?size=1024"
+      },
+      "author": {
+        "name": "!  \u239d\u239d Buri Buri Zaemon\u262a \u23a0\u23a0",
+        "icon_url": "https://cdn.discordapp.com/avatars/1237971089087270983/c7b91765e9504969d7a5cd1a88e9c2f3.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1237971089087270983> (mr_viole_xd)"
+        },
+        {
+          "inline": true,
+          "name": "Joined",
+          "value": "<t:1748626883:R>"
+        },
+        {
+          "inline": true,
+          "name": "Member Count",
+          "value": "42"
+        },
+        {
+          "inline": false,
+          "name": "Roles",
+          "value": "<@&1374480761062690846>, <@&1374375658704207892>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-06-04T07:44:28.769232+00:00",
+      "type": "rich",
+      "title": "Member Left"
+    },
+    "message_id": 1379727495208894515
+  }
+]

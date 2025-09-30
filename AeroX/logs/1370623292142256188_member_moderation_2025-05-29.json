@@ -1,0 +1,36 @@
+[
+  {
+    "timestamp": "2025-05-29T02:57:30.252834",
+    "category": "member_moderation",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": 1122890382137634936,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1122890382137634936"
+      },
+      "author": {
+        "name": "YUMI \u2744",
+        "icon_url": "https://cdn.discordapp.com/avatars/1122890382137634936/1accd8ab86e3fbe94298026969c7c957.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1122890382137634936>"
+        },
+        {
+          "inline": false,
+          "name": "Roles Added",
+          "value": "<@&1374375501967392788>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-05-29T02:57:30.037174+00:00",
+      "type": "rich",
+      "title": "Member Roles Updated"
+    },
+    "message_id": 1377480947263606834
+  }
+]

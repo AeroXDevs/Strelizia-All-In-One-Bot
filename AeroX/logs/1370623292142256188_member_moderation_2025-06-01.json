@@ -1,0 +1,36 @@
+[
+  {
+    "timestamp": "2025-06-01T00:28:32.821014",
+    "category": "member_moderation",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": 1006334095858618458,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1006334095858618458"
+      },
+      "author": {
+        "name": "\ud835\udde5\ud835\udde8\ud835\udde0",
+        "icon_url": "https://cdn.discordapp.com/avatars/1006334095858618458/a_9bb9e7f06e764be751dcfcfcd50f96ce.gif?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1006334095858618458>"
+        },
+        {
+          "inline": false,
+          "name": "Roles Added",
+          "value": "<@&1374480761062690846>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-06-01T00:28:32.695170+00:00",
+      "type": "rich",
+      "title": "Member Roles Updated"
+    },
+    "message_id": 1378530624650088459
+  }
+]

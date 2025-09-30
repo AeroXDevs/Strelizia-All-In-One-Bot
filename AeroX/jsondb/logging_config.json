@@ -1,0 +1,108 @@
+{
+  "1370623292142256188": {
+    "guild_id": "1370623292142256188",
+    "log_channels": {
+      "message_events": 1376278154808656114,
+      "join_leave_events": 1376278156524392540,
+      "member_moderation": 1376278154808656114,
+      "voice_events": 1376278152833273856,
+      "channel_events": 1376278160429158520,
+      "role_events": 1376278160429158520,
+      "emoji_events": 1376278160429158520,
+      "reaction_events": 1376278160429158520,
+      "system_events": 1376278160429158520
+    },
+    "log_enabled": {
+      "message_events": true,
+      "join_leave_events": true,
+      "member_moderation": true,
+      "voice_events": true,
+      "channel_events": true,
+      "role_events": true,
+      "emoji_events": true,
+      "reaction_events": true,
+      "system_events": true
+    },
+    "ignore_channels": [],
+    "ignore_roles": [],
+    "ignore_users": [],
+    "auto_delete_duration": null,
+    "last_updated": "2025-05-28T19:05:03.046582"
+  },
+  "1378649614424477786": {
+    "guild_id": "1378649614424477786",
+    "log_channels": {
+      "message_events": 1379181207908122644,
+      "join_leave_events": 1379181207908122644,
+      "member_moderation": 1379181207908122644,
+      "voice_events": 1379181207908122644,
+      "channel_events": 1379181207908122644,
+      "role_events": 1379181207908122644,
+      "emoji_events": 1379181207908122644,
+      "reaction_events": 1379181207908122644,
+      "system_events": 1379181207908122644
+    },
+    "log_enabled": {
+      "message_events": true,
+      "join_leave_events": true,
+      "member_moderation": true,
+      "voice_events": true,
+      "channel_events": true,
+      "role_events": true,
+      "emoji_events": true,
+      "reaction_events": true,
+      "system_events": true
+    },
+    "ignore_channels": [],
+    "ignore_roles": [],
+    "ignore_users": [],
+    "auto_delete_duration": null,
+    "last_updated": "2025-06-02T19:35:31.301368"
+  },
+  "1373230288255189062": {
+    "guild_id": "1373230288255189062",
+    "log_channels": {
+      "message_events": 1379747243694755972,
+      "join_leave_events": 1379747243694755972,
+      "member_moderation": 1379747243694755972,
+      "channel_events": 1379747243694755972,
+      "role_events": 1379747243694755972
+    },
+    "log_enabled": {
+      "message_events": true,
+      "join_leave_events": true,
+      "member_moderation": true,
+      "voice_events": false,
+      "channel_events": true,
+      "role_events": true,
+      "emoji_events": false,
+      "reaction_events": false,
+      "system_events": false
+    },
+    "ignore_channels": [],
+    "ignore_roles": [],
+    "ignore_users": [],
+    "auto_delete_duration": null,
+    "last_updated": "2025-06-04T09:10:39.884095"
+  },
+  "1391591242034581544": {
+    "guild_id": "1391591242034581544",
+    "log_channels": {},
+    "log_enabled": {
+      "message_events": false,
+      "join_leave_events": false,
+      "member_moderation": false,
+      "voice_events": false,
+      "channel_events": false,
+      "role_events": false,
+      "emoji_events": false,
+      "reaction_events": false,
+      "system_events": false
+    },
+    "ignore_channels": [],
+    "ignore_roles": [],
+    "ignore_users": [],
+    "auto_delete_duration": null,
+    "last_updated": "2025-07-13T07:36:52.259251"
+  }
+}

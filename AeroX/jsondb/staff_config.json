@@ -1,0 +1,35 @@
+{
+  "1372373817825169469": {
+    "enabled": true,
+    "review_channel_id": 1372374969891291156,
+    "staff_role_id": 1372374963612287097,
+    "ping_role_id": 1372374965495533621,
+    "auto_approve": false,
+    "require_reactions": 2,
+    "questions": [
+      "Baksk",
+      "skkskwoso",
+      "what'd ur slapodpd",
+      "allwpsls",
+      "jeiei"
+    ],
+    "last_updated": "2025-06-09T05:12:59.712015"
+  },
+  "1333711896146214923": {
+    "enabled": true,
+    "review_channel_id": 1390614682842304563,
+    "staff_role_id": 1333720345718554668,
+    "ping_role_id": 1333719501451034625,
+    "auto_approve": false,
+    "require_reactions": 2,
+    "questions": [
+      "Name: [Your Name/Username]",
+      "Age: [Your Age]",
+      "Gender: [Your Gender]",
+      "Country: [Your Country]",
+      "Hours active on Discord: [Your Hours]",
+      "What will you do after becoming staff? [Your Plans]"
+    ],
+    "last_updated": "2025-07-13T10:59:24.274760"
+  }
+}

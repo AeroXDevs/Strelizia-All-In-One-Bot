@@ -1,0 +1,51 @@
+[
+  {
+    "timestamp": "2025-06-04T09:39:45.436083",
+    "category": "message_events",
+    "guild_id": 1378649614424477786,
+    "channel_id": 1378692619692933120,
+    "author_id": 1198187445859139595,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1198187445859139595 \u2022 Message ID: 1379756066509684877"
+      },
+      "author": {
+        "name": "Hiro \u262a",
+        "icon_url": "https://cdn.discordapp.com/avatars/1198187445859139595/576a2d2b3df78b8861a1d2d1e6260d95.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": false,
+          "name": "Before",
+          "value": "```<@&1378821008236220487> \n**<a:Radientfr:1343835315764330509> New Features and updates**\n> Added subbdomin manger\n> Added 1 click Plugin installer \n> Added Player manger \n> Added Server properties \n> Added Server background and here's a sneak peek```"
+        },
+        {
+          "inline": false,
+          "name": "After",
+          "value": "```<@&1378821008236220487> \n**<a:Radientfr:1343835315764330509> New Features and updates**\n> Added subbdomin manger With subbdomins __Crystalmc.fun__, __Realistichost.pro__\n> Added 1 click Plugin installer \n> Added Player manger \n> Added Server properties \n> Added Server background and here's a sneak peek```"
+        },
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "<#1378692619692933120>"
+        },
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1198187445859139595>"
+        },
+        {
+          "inline": true,
+          "name": "Jump to Message",
+          "value": "[Click here](https://discord.com/channels/1378649614424477786/1378692619692933120/1379756066509684877)"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-06-04T09:39:45.228250+00:00",
+      "type": "rich",
+      "title": "Message Edited"
+    },
+    "message_id": 1379756504235642882
+  }
+]

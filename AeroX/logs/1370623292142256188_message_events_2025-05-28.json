@@ -1,0 +1,51 @@
+[
+  {
+    "timestamp": "2025-05-28T19:05:11.289002",
+    "category": "message_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": 1376278154808656114,
+    "author_id": 1124248109472550993,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1124248109472550993 \u2022 Message ID: 1377362066574278767"
+      },
+      "author": {
+        "name": "Aegis",
+        "icon_url": "https://cdn.discordapp.com/avatars/1124248109472550993/4626d5495ac14fa75f833130b1df43e2.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": false,
+          "name": "Before",
+          "value": "```Hi```"
+        },
+        {
+          "inline": false,
+          "name": "After",
+          "value": "```Yo```"
+        },
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "<#1376278154808656114>"
+        },
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1124248109472550993>"
+        },
+        {
+          "inline": true,
+          "name": "Jump to Message",
+          "value": "[Click here](https://discord.com/channels/1370623292142256188/1376278154808656114/1377362066574278767)"
+        }
+      ],
+      "flags": 0,
+      "color": 3092790,
+      "timestamp": "2025-05-28T19:05:11.136090+00:00",
+      "type": "rich",
+      "title": "\ud83d\udcdd Message Edited"
+    },
+    "message_id": 1377362085037473862
+  }
+]

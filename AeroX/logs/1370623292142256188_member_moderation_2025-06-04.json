@@ -1,0 +1,36 @@
+[
+  {
+    "timestamp": "2025-06-04T16:16:20.289915",
+    "category": "member_moderation",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": 841899954481004564,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 841899954481004564"
+      },
+      "author": {
+        "name": "gamerzboy",
+        "icon_url": "https://cdn.discordapp.com/avatars/841899954481004564/32d4b80a0ddb66c232d544e1877e09d3.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@841899954481004564>"
+        },
+        {
+          "inline": false,
+          "name": "Roles Added",
+          "value": "<@&1374480761062690846>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-06-04T16:16:19.810584+00:00",
+      "type": "rich",
+      "title": "Member Roles Updated"
+    },
+    "message_id": 1379856306982224032
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-30T11:29:28.708547",
+    "category": "voice_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": 1124248109472550993,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1124248109472550993"
+      },
+      "author": {
+        "name": "Aegis",
+        "icon_url": "https://cdn.discordapp.com/avatars/1124248109472550993/4626d5495ac14fa75f833130b1df43e2.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1124248109472550993>"
+        },
+        {
+          "inline": true,
+          "name": "Action",
+          "value": "Joined voice"
+        },
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "<#1370782677539487816>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-05-30T11:29:28.571287+00:00",
+      "type": "rich",
+      "title": "Voice State Changed"
+    },
+    "message_id": 1377972177739055165
+  }
+]

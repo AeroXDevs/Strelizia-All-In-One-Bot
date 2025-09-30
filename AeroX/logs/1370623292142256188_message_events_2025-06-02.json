@@ -1,0 +1,51 @@
+[
+  {
+    "timestamp": "2025-06-02T09:57:48.792013",
+    "category": "message_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": 1374371891678023835,
+    "author_id": 1198187445859139595,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1198187445859139595 \u2022 Message ID: 1379036243622494309"
+      },
+      "author": {
+        "name": "Hiro \u262a",
+        "icon_url": "https://cdn.discordapp.com/avatars/1198187445859139595/576a2d2b3df78b8861a1d2d1e6260d95.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": false,
+          "name": "Before",
+          "value": "```join https://nodezy.crystalmc.fun/```"
+        },
+        {
+          "inline": false,
+          "name": "After",
+          "value": "```join https://dsc.gg/Nodezy/```"
+        },
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "<#1374371891678023835>"
+        },
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1198187445859139595>"
+        },
+        {
+          "inline": true,
+          "name": "Jump to Message",
+          "value": "[Click here](https://discord.com/channels/1370623292142256188/1374371891678023835/1379036243622494309)"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-06-02T09:57:48.673245+00:00",
+      "type": "rich",
+      "title": "Message Edited"
+    },
+    "message_id": 1379036272999399534
+  }
+]

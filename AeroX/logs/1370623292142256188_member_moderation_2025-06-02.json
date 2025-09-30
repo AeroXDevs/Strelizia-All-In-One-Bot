@@ -1,0 +1,36 @@
+[
+  {
+    "timestamp": "2025-06-02T06:51:47.628048",
+    "category": "member_moderation",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": 1305572887565963345,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1305572887565963345"
+      },
+      "author": {
+        "name": "Advaya_30",
+        "icon_url": "https://cdn.discordapp.com/avatars/1305572887565963345/94e646319270122eaba1560222d4c44e.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1305572887565963345>"
+        },
+        {
+          "inline": false,
+          "name": "Roles Added",
+          "value": "<@&1374480761062690846>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-06-02T06:51:47.500131+00:00",
+      "type": "rich",
+      "title": "Member Roles Updated"
+    },
+    "message_id": 1378989459709759508
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "timestamp": "2025-05-31T03:43:28.904544",
+    "category": "member_moderation",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": 1356164113801154671,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1356164113801154671"
+      },
+      "author": {
+        "name": "Eren Yeager",
+        "icon_url": "https://cdn.discordapp.com/avatars/1356164113801154671/15144a917290fc6a25880e2c3bdb2ee8.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1356164113801154671>"
+        },
+        {
+          "inline": false,
+          "name": "Roles Added",
+          "value": "<@&1374480761062690846>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-05-31T03:43:28.782877+00:00",
+      "type": "rich",
+      "title": "Member Roles Updated"
+    },
+    "message_id": 1378217293711933500
+  }
+]

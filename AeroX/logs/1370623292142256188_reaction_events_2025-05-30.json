@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": "2025-05-30T15:50:41.813892",
+    "category": "reaction_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": 1374371891678023835,
+    "author_id": 1182644017217941585,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1182644017217941585 \u2022 Message ID: 1378037900276531302"
+      },
+      "author": {
+        "name": "Vlim Gaming",
+        "icon_url": "https://cdn.discordapp.com/avatars/1182644017217941585/b9f816c34f0819e8d65bc13d0a6f9cf0.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1182644017217941585>"
+        },
+        {
+          "inline": true,
+          "name": "Reaction",
+          "value": "<a:crown:1376599839290429512>"
+        },
+        {
+          "inline": true,
+          "name": "Message",
+          "value": "[Jump to message](https://discord.com/channels/1370623292142256188/1374371891678023835/1378037900276531302)"
+        },
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "<#1374371891678023835>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-05-30T15:50:41.668145+00:00",
+      "type": "rich",
+      "title": "Reaction Added"
+    },
+    "message_id": 1378037915443265688
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2025-06-04T08:52:56.716470",
+    "category": "role_events",
+    "guild_id": 1378649614424477786,
+    "channel_id": null,
+    "author_id": null,
+    "embed_data": {
+      "footer": {
+        "text": "Role ID: 1378704816167063663"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "Role",
+          "value": "<@&1378704816167063663>"
+        },
+        {
+          "inline": false,
+          "name": "Changes",
+          "value": "Mentionable: False \u2192 True"
+        },
+        {
+          "inline": true,
+          "name": "Updated by",
+          "value": "<@1372468860435042344>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-06-04T08:52:56.410762+00:00",
+      "type": "rich",
+      "title": "Role Updated"
+    },
+    "message_id": 1379744724243451966
+  }
+]

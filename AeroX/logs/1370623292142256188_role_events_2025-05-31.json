@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2025-05-31T08:55:34.022366",
+    "category": "role_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": null,
+    "embed_data": {
+      "footer": {
+        "text": "Role ID: 1378280931022082109"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "Role",
+          "value": "<@&1378280931022082109>"
+        },
+        {
+          "inline": false,
+          "name": "Changes",
+          "value": "Name: web dev \u2192 Web Dev\nColor: #000000 \u2192 #1abc9c"
+        },
+        {
+          "inline": true,
+          "name": "Updated by",
+          "value": "<@1198187445859139595>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-05-31T08:55:33.672078+00:00",
+      "type": "rich",
+      "title": "Role Updated"
+    },
+    "message_id": 1378295832314646548
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2025-07-14T10:55:05.992311",
+    "category": "join_leave_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": 1247575767769157695,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1247575767769157695"
+      },
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/avatars/1247575767769157695/4a2723db85f2b535a1bb864afb862b50.png?size=1024"
+      },
+      "author": {
+        "name": "SEND REQ IN dev.lyy",
+        "icon_url": "https://cdn.discordapp.com/avatars/1247575767769157695/4a2723db85f2b535a1bb864afb862b50.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1247575767769157695>"
+        },
+        {
+          "inline": true,
+          "name": "Account Created",
+          "value": "<t:1717515641:R>"
+        },
+        {
+          "inline": true,
+          "name": "Member Count",
+          "value": "67"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-07-14T10:55:05.382749+00:00",
+      "type": "rich",
+      "title": "Member Joined"
+    },
+    "message_id": 1394270978724335737
+  }
+]

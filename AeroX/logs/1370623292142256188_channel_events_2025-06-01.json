@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2025-06-01T08:32:28.547011",
+    "category": "channel_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": 1378652407440998401,
+    "author_id": null,
+    "embed_data": {
+      "footer": {
+        "text": "Channel ID: 1378652407440998401"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "<#1378652407440998401>"
+        },
+        {
+          "inline": true,
+          "name": "Type",
+          "value": "Text"
+        },
+        {
+          "inline": true,
+          "name": "Category",
+          "value": "TICKETS"
+        },
+        {
+          "inline": true,
+          "name": "Created by",
+          "value": "<@1372468860435042344>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-06-01T08:32:28.264222+00:00",
+      "type": "rich",
+      "title": "Channel Created"
+    },
+    "message_id": 1378652409127243786
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-30T09:28:12.675708",
+    "category": "join_leave_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": 1152510292115345468,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1152510292115345468"
+      },
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/avatars/1152510292115345468/93b8711ea0af64904434c051c132878b.png?size=1024"
+      },
+      "author": {
+        "name": "moo.",
+        "icon_url": "https://cdn.discordapp.com/avatars/1152510292115345468/93b8711ea0af64904434c051c132878b.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1152510292115345468> (chearing)"
+        },
+        {
+          "inline": true,
+          "name": "Joined",
+          "value": "<t:1748513877:R>"
+        },
+        {
+          "inline": true,
+          "name": "Member Count",
+          "value": "17"
+        },
+        {
+          "inline": false,
+          "name": "Roles",
+          "value": "<@&1374480761062690846>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-05-30T09:28:12.530449+00:00",
+      "type": "rich",
+      "title": "Member Left"
+    },
+    "message_id": 1377941659828092999
+  }
+]

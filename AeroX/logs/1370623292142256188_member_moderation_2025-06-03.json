@@ -1,0 +1,36 @@
+[
+  {
+    "timestamp": "2025-06-03T04:11:26.714527",
+    "category": "member_moderation",
+    "guild_id": 1370623292142256188,
+    "channel_id": null,
+    "author_id": 1352530868878442549,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1352530868878442549"
+      },
+      "author": {
+        "name": "Rex",
+        "icon_url": "https://cdn.discordapp.com/avatars/1352530868878442549/585d19a4ed6fb5c015069fe57644f137.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1352530868878442549>"
+        },
+        {
+          "inline": false,
+          "name": "Roles Added",
+          "value": "<@&1374480761062690846>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-06-03T04:11:26.516084+00:00",
+      "type": "rich",
+      "title": "Member Roles Updated"
+    },
+    "message_id": 1379311494180765749
+  }
+]

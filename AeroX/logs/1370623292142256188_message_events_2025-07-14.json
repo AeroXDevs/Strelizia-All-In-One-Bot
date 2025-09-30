@@ -1,0 +1,51 @@
+[
+  {
+    "timestamp": "2025-07-14T10:40:29.560277",
+    "category": "message_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": 1374371891678023835,
+    "author_id": 1172174931564445708,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1172174931564445708 \u2022 Message ID: 1394267124238647397"
+      },
+      "author": {
+        "name": "Leaving dc",
+        "icon_url": "https://cdn.discordapp.com/avatars/1172174931564445708/df67e50f3e92831f6b6da711eff632ad.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": false,
+          "name": "Before",
+          "value": "```Ehat huh```"
+        },
+        {
+          "inline": false,
+          "name": "After",
+          "value": "```2hat huh```"
+        },
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "<#1374371891678023835>"
+        },
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1172174931564445708>"
+        },
+        {
+          "inline": true,
+          "name": "Jump to Message",
+          "value": "[Click here](https://discord.com/channels/1370623292142256188/1374371891678023835/1394267124238647397)"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-07-14T10:40:29.112392+00:00",
+      "type": "rich",
+      "title": "Message Edited"
+    },
+    "message_id": 1394267303465451581
+  }
+]

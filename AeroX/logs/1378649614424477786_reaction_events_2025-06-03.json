@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": "2025-06-03T06:19:22.856720",
+    "category": "reaction_events",
+    "guild_id": 1378649614424477786,
+    "channel_id": 1378692647316885657,
+    "author_id": 1010057368287068222,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1010057368287068222 \u2022 Message ID: 1379343272371159111"
+      },
+      "author": {
+        "name": "Leo",
+        "icon_url": "https://cdn.discordapp.com/avatars/1010057368287068222/aac5eeda8623cc15b985104baeb3f262.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1010057368287068222>"
+        },
+        {
+          "inline": true,
+          "name": "Reaction",
+          "value": "<a:butterflyyy:1350153364322779261>"
+        },
+        {
+          "inline": true,
+          "name": "Message",
+          "value": "[Jump to message](https://discord.com/channels/1378649614424477786/1378692647316885657/1379343272371159111)"
+        },
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "<#1378692647316885657>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-06-03T06:19:22.704747+00:00",
+      "type": "rich",
+      "title": "Reaction Added"
+    },
+    "message_id": 1379343690237083751
+  }
+]

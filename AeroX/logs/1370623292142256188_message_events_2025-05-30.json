@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-30T08:30:05.723445",
+    "category": "message_events",
+    "guild_id": 1370623292142256188,
+    "channel_id": 1370623292142256190,
+    "author_id": 1198187445859139595,
+    "embed_data": {
+      "footer": {
+        "text": "User ID: 1198187445859139595 \u2022 Message ID: 1377927031786045450"
+      },
+      "author": {
+        "name": "Hiro \u262a",
+        "icon_url": "https://cdn.discordapp.com/avatars/1198187445859139595/576a2d2b3df78b8861a1d2d1e6260d95.png?size=1024"
+      },
+      "fields": [
+        {
+          "inline": false,
+          "name": "Content",
+          "value": "```clear 4```"
+        },
+        {
+          "inline": true,
+          "name": "Channel",
+          "value": "<#1370623292142256190>"
+        },
+        {
+          "inline": true,
+          "name": "User",
+          "value": "<@1198187445859139595>"
+        }
+      ],
+      "flags": 0,
+      "color": 0,
+      "timestamp": "2025-05-30T08:30:05.462224+00:00",
+      "type": "rich",
+      "title": "Message Deleted"
+    },
+    "message_id": 1377927033799311393
+  }
+]
