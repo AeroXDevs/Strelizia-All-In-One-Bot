@@ -118,9 +118,9 @@ BOT_PREFIX=!
 ### 👨‍💻 Development Team
 
 **Developer:** Aegis  
-**Discord:** `._.aegis._.`  
+**Discord:** `root.exe`  
 **Community:** AeroX Development  
-**Discord Server:** [discord.gg/aeroxdev](https://discord.gg/aeroxdev)
+**Discord Server:** [discord.gg/meet](https://discord.gg/meet)
 
 ---
 
